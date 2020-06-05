@@ -7,7 +7,7 @@ var resp = {
     nodeType: "storage",
     flexibleCloudlets: ${settings.st_flexibleCloudlets:8},
     fixedCloudlets: ${settings.st_fixedCloudlets:1},
-    diskLimit: ${settings.st_diskLimit:100},
+    diskLimit: ${settings.st_diskLimit:10000},
     nodeGroup: "storage",
     displayName: "Storage"
   }]
